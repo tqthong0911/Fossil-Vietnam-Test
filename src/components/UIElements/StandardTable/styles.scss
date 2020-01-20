@@ -1,0 +1,45 @@
+.wrapper-table {
+    border: 1px solid #dee2e6;
+    margin-bottom: 64px;
+
+    table.table {
+        margin-bottom: 0;
+
+        tbody {
+            border-bottom: 1px solid #dee2e6;
+
+            tr {
+                min-height: 96px;
+            }
+        }
+    }
+
+    .react-bootstrap-table-pagination {
+        height: 64px;
+        align-items: center;
+        margin: 0;
+
+        .paginationBtn {
+            display: flex;
+            place-content: flex-end;
+            flex: 1;
+
+            >button {
+                border: 0;
+                min-width: 36px;
+                border-radius: 50%;
+                margin: 4px;
+            }
+
+            >button[title='First'] {
+                width: auto;
+                border-radius: 12px;
+            }
+
+            >button[title='Last'] {
+                width: auto;
+                border-radius: 12px;
+            }
+        }
+    }
+}

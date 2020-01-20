@@ -1,0 +1,39 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet">
+ <defs>
+  <linearGradient id="svg_18" y2="NaN" y1="NaN" x1="0%">
+   <stop offset="0%" stop-color="#C40000"/>
+   <stop offset="100%" stop-color="#F00"/>
+  </linearGradient>
+  <linearGradient id="svg_19" y2="NaN" y1="NaN" x1="0%">
+   <stop offset="0%" stop-color="#C40000"/>
+   <stop offset="100%" stop-color="#F00"/>
+  </linearGradient>
+  <linearGradient id="svg_20" y2="NaN" y1="NaN" x1="0%">
+   <stop offset="0%" stop-color="#C40000"/>
+   <stop offset="100%" stop-color="#F00"/>
+  </linearGradient>
+  <linearGradient id="svg_21" y2="NaN" y1="NaN" x1="0%">
+   <stop offset="0%" stop-color="#4F4F4F"/>
+   <stop offset="100%"/>
+  </linearGradient>
+  <linearGradient id="svg_22" y2="NaN" y1="NaN" x1="0%">
+   <stop offset="0%" stop-color="#4F4F4F"/>
+   <stop offset="100%"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="152" width="152" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+
+  <g stroke="null" id="svg_28">
+   <path stroke="null" id="svg_23" fill="url(#svg_22)" d="m26.033249,92.066086l0,11.37739c0,1.917801 44.52034,5.129781 73.526637,11.37739c14.012142,-3.018564 24.406865,-6.744303 24.406865,-11.37739l0,-11.37739c0,-4.630598 -10.394723,-8.358826 -24.406865,-11.37739c-29.006679,6.248676 -73.526637,9.461011 -73.526637,11.37739"/>
+   <path stroke="null" id="svg_24" fill="url(#svg_21)" d="m26.033249,46.556526l0,11.37739c0,1.917801 44.52034,5.129781 73.526637,11.37739c14.012142,-3.018564 24.406865,-6.744303 24.406865,-11.37739l0,-11.37739c0,-4.630598 -10.394723,-8.358826 -24.406865,-11.37739c-29.006679,6.248676 -73.526637,9.461011 -73.526637,11.37739"/>
+   <path stroke="null" id="svg_25" fill="url(#svg_20)" d="m26.033249,69.311306l0,34.13217c0,-2.844347 97.933502,-8.533042 97.933502,-22.75478l0,-34.13217c0,14.221737 -97.933502,19.910432 -97.933502,22.75478"/>
+   <path stroke="null" id="svg_26" fill="url(#svg_19)" d="m26.033249,23.801746l0,34.13217c0,-2.844347 97.933502,-8.533042 97.933502,-22.75478l0,-34.13217c0,14.221737 -97.933502,19.910432 -97.933502,22.75478"/>
+   <path stroke="null" id="svg_27" fill="url(#svg_18)" d="m26.033249,114.820866l0,34.13217c0,-2.844347 97.933502,-8.533042 97.933502,-22.75478l0,-34.13217c0,14.221737 -97.933502,19.910432 -97.933502,22.75478"/>
+  </g>
+ </g>
+</svg>

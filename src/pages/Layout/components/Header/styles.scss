@@ -1,0 +1,36 @@
+.wraper {
+    nav {
+        height: 96px;
+
+        .container {
+            height: inherit;
+
+            .logo {
+                height: inherit;
+                display: flex;
+                >img {
+                    height: 80%;
+                    margin: auto;
+                }
+            }
+
+            .navLink {
+                margin: 16px;
+                color: white;
+            }
+
+            .active {
+                text-decoration: underline !important;
+            }
+
+            .avatar {
+                background-color: gray;
+                border-color: gray;
+                >img {
+                    height: 32px;
+                    padding-right: 8px;
+                }
+            }
+        }
+    }
+}

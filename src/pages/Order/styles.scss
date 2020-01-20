@@ -1,0 +1,17 @@
+#orders {
+    margin-top: 32px;
+    .wrapper {
+        margin: 0;
+
+        .nav-item {
+            border-bottom: 1px solid #EEEEEE;
+            >a {
+                color: black;
+            }
+            .active {
+                background-color: #343a40;
+                color: white;
+            }
+        }
+    }
+}

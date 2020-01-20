@@ -1,0 +1,42 @@
+.footer-wrapper {
+    color: white;
+    margin: 0;
+    max-height: fit-content;
+    padding: 0;
+
+    >div {
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        min-height: 64px;
+        background-color: inherit;
+
+        .iconify {
+            font-size: 24px;
+            margin: 0 8px;
+        }
+
+        .row1 {
+            display: flex;
+            place-content: center;
+            text-align: center;
+            align-items: center;
+            margin-top: auto;
+
+            >.name {
+                padding-right: 32px;
+            }
+
+            .phone {
+                margin: 8px;
+            }
+
+            .email {
+                .iconify {
+                    font-size: 32px;
+                    margin-top: -4px;
+                }
+            }
+        }
+    }
+}
